@@ -1,4 +1,5 @@
 # 2025.1
+
 ## Additions
 - Speed Enchantment
 	- Only appliable to boots
