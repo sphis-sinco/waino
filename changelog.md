@@ -1,3 +1,10 @@
+# 2025.3
+
+## Additions
+- Wooden Heals recipes
+	- 5 recipes for wooden tools using string
+	- Just gives wooden tools back full durability
+
 # 2025.2
 
 ## Additions
