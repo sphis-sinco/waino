@@ -1,5 +1,16 @@
 # 2025.2
 
+## Additions
+- Iron Bat
+	- Durability: 12
+	- Attack Damage: 14
+- Stone Bat
+	- Durability: 8
+	- Attack Damage: 11
+- Wooden Bat
+	- Durability: 4
+	- Attack Damage: 7
+
 ## Changes
 - Speed Enchantment
 	- Now deals (1 / 10) damage to boots instead of 1 damage while sprinting
