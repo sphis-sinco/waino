@@ -1,6 +1,15 @@
 # 2025.2
 
 ## Additions
+- Wrapped Iron Bat
+	- Durability: 16
+	- Attack Damage: 12
+- Wrapped Stone Bat
+	- Durability: 12
+	- Attack Damage: 10
+- Wrapped Wooden Bat
+	- Durability: 6
+	- Attack Damage: 8
 - Iron Bat
 	- Durability: 12
 	- Attack Damage: 14
